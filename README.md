@@ -30,7 +30,7 @@ $ docker compose exec app django-admin.py startproject app .
 $ docker compose restart
 ```
 
-Then you can access the app in the browser:
+You can access the application from the web browser at the URL:
 http://localhost:8000/
 
 ### Open bash shell of app container
